@@ -1,0 +1,16 @@
+.navigation ul.listofoptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    ;
+}
+
+.navigation ul.listofoptions li.options a {
+    text-decoration: none;
+    padding: 2px;
+    color: white
+}
